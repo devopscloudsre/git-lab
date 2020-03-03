@@ -1,1 +1,1 @@
-print "welcome to devops class"
+print "welcome to AWS class"
